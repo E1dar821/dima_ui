@@ -6,8 +6,8 @@ function App() {
     <div className="flex items-center">
     <img className = "rounded-full w-24 h-24 mr-4 "src="https://cdnn21.img.ria.ru/images/07e7/0c/0e/1915754527_0:153:3125:1911_1920x0_80_0_0_0f238f81ded340d5be913352a94b8fc7.jpg" alt="" />
     <div className= "">
-      <h2 className="font-bold text-2xl">Pisyakov Andreev</h2>
-      <h3 className="text-gray-500 text-xl">back-end passive</h3>
+      <h2 className="font-bold text-2xl">Maximus Meridius</h2>
+      <h3 className="text-gray-500 text-xl">frontend gladiator</h3>
     </div>
     </div>
     </div> 
